@@ -10,3 +10,8 @@
 
 see ddl.sql
 
+## Test/Debug in pycharm ide
+
+right click entrypoint.py file
+
+run/debug entrypoint
