@@ -2,6 +2,24 @@
 
 2
 
+## Environment
+
+mac/linux
+
+python 2.7.13
+
+## Database
+
+mysql
+
+## lib
+
+```
+mysql-connector
+scrapy
+lxml
+```
+
 ## You can start your spider with:
 
 ```
